@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('keyczar-0.71j-032417.jar'))
